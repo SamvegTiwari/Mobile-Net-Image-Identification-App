@@ -1,0 +1,38 @@
+  .ho2
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 25px;
+  }
+  .heading_div
+  {
+    background: rgb(3, 40, 253) ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    float:none;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+    background-color: rgb(3, 40, 253);
+  }
+  .result_para_tag
+  {
+    box-shadow:10px 10px 10px rgb(2, 0, 0);
+    font-size: 25px;
+    color: rgb(255, 72, 0);
+  }
+ 
+
+  .copy_right_footer{
+  position: fixed;  
+  color: blue;
+  bottom:0;
+  width: 100%;
+  background-color: grey;
+  line-height:3;
+  text-align: center;
+
+  }
